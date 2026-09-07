@@ -1,35 +1,35 @@
 # GTA V Manual Transmission v5.6.1 (Rework by DeViX)
 
-Полная совместимость с версией **GTA V Legacy 1.0.3889.0**.
+Fully compatible with **Grand Theft Auto V Legacy 1.0.3889.0**.
 
 ---
 
-## 🛠️ Основные исправления:
+## 🛠️ Key Fixes & Improvements
 
-1. **Исправлено то, что автомобиль не реагировал на повороты**  
-   (колёса автомобиля теперь мгновенно поворачивают при вращении руля без задержек и блокировок).
+1. **Fixed vehicle steering response issue**  
+   Resolved steering angle passthrough where vehicles failed to turn with a hardware steering wheel.
 
-2. **Исправлена работа автоматической коробки передач**  
-   (реализована корректная схема переключения **R – N – D**, задний ход и автоматическое переключение передач в движении).
-
----
-
-## 🚀 Установка:
-
-1. Убедитесь, что у вас установлены **Script Hook V** (`ScriptHookV.dll`) и **dinput8.dll**.
-2. Скопируйте файл **`Gears.asi`** и папку **`ManualTransmission`** в корневую папку GTA V (рядом с `GTA5.exe`).
-3. Запустите игру.
+2. **Fixed automatic transmission operation**  
+   Re-implemented automatic gearbox logic with a streamlined **R – N – D** state cycle, functional reverse gear, and proper forward automatic shifts.
 
 ---
 
-## 🎮 Управление:
+## 🚀 Installation
 
-* Открыть меню конфигурации в игре: клавиша **`[`** (русская **`Х`**) или чит-код **`mtmenu`**.
-* Настройка руля: через меню в игре (**Wheel Controls**) или с помощью **`ManualTransmission/WheelSetup.exe`**.
+1. Ensure you have **Script Hook V** (`ScriptHookV.dll`) and an ASI loader (`dinput8.dll`) installed.
+2. Copy **`Gears.asi`** and the **`ManualTransmission`** folder into your main GTA V root directory (next to `GTA5.exe`).
+3. Launch the game.
 
 ---
 
-## 👥 Авторство:
+## 🎮 Controls
 
-* **Оригинальный мод**: [ikt](https://github.com/E6616)
+* **Configuration Menu**: Press `[` (default) or enter cheat code `mtmenu`.
+* **Wheel Setup**: Configure directly in the in-game menu under **Wheel Controls**, or via **`ManualTransmission/WheelSetup.exe`**.
+
+---
+
+## 👥 Credits
+
+* **Original Mod**: [ikt](https://github.com/E6616)
 * **Rework & Fixes**: **DeViX**
