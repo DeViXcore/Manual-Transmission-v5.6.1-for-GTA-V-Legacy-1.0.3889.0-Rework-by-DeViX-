@@ -31,5 +31,5 @@ Fully compatible with **Grand Theft Auto V Legacy 1.0.3889.0**.
 
 ## 👥 Credits
 
-* **Original Mod**: [ikt](https://github.com/E6616)
+* **Original Mod**: [ikt] (https://github.com/ikt32/GTAVManualTransmission/tree/master)
 * **Rework & Fixes**: **DeViX**
