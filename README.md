@@ -4,6 +4,14 @@ Fully compatible with **Grand Theft Auto V Legacy 1.0.3889.0**.
 
 ---
 
+## 📖 Background
+
+Following the original developer's transition of subsequent mod updates behind a paid subscription (which contradicts Rockstar Games' policy regarding commercialization of game modifications), the community was left without working steering and automatic transmission support on modern GTA V game builds.
+
+To preserve the mod for the community and keep it freely accessible, this project takes the last publicly released free build (v5.6.1) and adapts it to work reliably on the latest **GTA V Legacy 1.0.3889.0** update.
+
+---
+
 ## 🛠️ Key Fixes & Improvements
 
 1. **Fixed vehicle steering response issue**  
