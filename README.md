@@ -4,7 +4,7 @@ Fully compatible with **Grand Theft Auto V Legacy 1.0.3889.0**.
 
 ---
 
-## 📖 Background
+## Background
 
 Following the original developer's transition of subsequent mod updates behind a paid subscription (which contradicts Rockstar Games' policy regarding commercialization of game modifications), the community was left without working steering and automatic transmission support on modern GTA V game builds.
 
@@ -12,7 +12,7 @@ To preserve the mod for the community and keep it freely accessible, this projec
 
 ---
 
-## 🛠️ Key Fixes & Improvements
+## Key Fixes & Improvements
 
 1. **Fixed vehicle steering response issue**  
    Resolved steering angle passthrough where vehicles failed to turn with a hardware steering wheel.
@@ -22,7 +22,7 @@ To preserve the mod for the community and keep it freely accessible, this projec
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Ensure you have **Script Hook V** (`ScriptHookV.dll`) and an ASI loader (`dinput8.dll`) installed.
 2. Copy **`Gears.asi`** and the **`ManualTransmission`** folder into your main GTA V root directory (next to `GTA5.exe`).
@@ -30,14 +30,14 @@ To preserve the mod for the community and keep it freely accessible, this projec
 
 ---
 
-## 🎮 Controls
+## Controls
 
 * **Configuration Menu**: Press `[` (default) or enter cheat code `mtmenu`.
 * **Wheel Setup**: Configure directly in the in-game menu under **Wheel Controls**, or via **`ManualTransmission/WheelSetup.exe`**.
 
 ---
 
-## 👥 Credits
+## Credits
 
 * **Original Mod**: [ikt] (https://github.com/ikt32/GTAVManualTransmission/tree/master)
 * **Rework & Fixes**: **DeViX**
